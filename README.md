@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prateek
-- 👀 I’m interested in Python and ML/AI
-- 🌱 I’m currently learning ML and AI
+- 👋 Hi, I’m Prateek, from Indore, MP
+- 👀 I’m interested in Python, Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning ML, GenAI, etc... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ prateek@d3vtech.com
 
